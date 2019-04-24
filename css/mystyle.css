@@ -1,0 +1,33 @@
+
+
+body{
+
+}
+
+#header{
+
+    height: 300px;
+    background-image: url("../images/university.png");
+    color: red;
+   
+
+}
+
+#logo , #title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#tvuLogo{
+    width: 100px;
+    height: 100px;
+}
+
+#footer{
+    background-color: rgb(43, 42, 42);
+    color: red;
+}
+
+#social , #copyright{
+    text-align: center;
+}
